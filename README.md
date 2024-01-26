@@ -3,9 +3,9 @@
 ### Overview
 This project aimed to predict Apple stock prices using recurrent neural networks (RNNs). There are two main implementations:
 
-1. Custom RNN: Manually implemented with NumPy for linear algebra operations used in methods such as forward_pass, backpropagation, and training the model.
+1. **Custom RNN**: Manually implemented with NumPy for linear algebra operations used in methods such as forward_pass, backpropagation, and training the model.
 
-2. Keras RNN: Leveraging the Keras library, this implementation uses a high-level interface for building neural networks. Here, a similar recurrent neural network architecture to the Custom RNN was constructed for comparison purposes.
+2. **Keras RNN**: Leveraging the Keras library, this implementation uses a high-level interface for building neural networks. Here, a similar recurrent neural network architecture to the Custom RNN was constructed for comparison purposes.
 
 ### Technologies 
 - Python 3.10
